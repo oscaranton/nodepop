@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.foto-item {
+  max-width: 300px;
+}
+
+.titulo-item {
+  font-weight: 900;
+}
+
+td {
+  width: 20%;
+}

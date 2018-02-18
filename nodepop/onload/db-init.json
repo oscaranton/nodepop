@@ -1,0 +1,32 @@
+{
+    "anuncios": [
+    {
+    "tags": [
+    "[transporte, ocio]"
+    ],
+    
+    "nombre": "Bicicleta",
+    "venta": true,
+    "precio": 200,
+    "foto": "bici.jpg"
+    },
+    {
+    "tags": [
+    "[transporte, trabajo]"
+    ],
+    "nombre": "Toyota Rav4",
+    "venta": true,
+    "precio": 10000,
+    "foto": "toyota_rav4.jpg"
+    },
+    {
+    "tags": [
+    "[ocio, trabajo]"
+    ],
+    "nombre": "DJI Mavic Pro",
+    "venta": false,
+    "precio": 500,
+    "foto": "mavic_pro.jpg"
+    }
+    ]
+    }
